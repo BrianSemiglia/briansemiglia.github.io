@@ -1,49 +1,77 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Keyshape -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 328 328" style="white-space: pre;">
+    <style>
+@keyframes a0_t { 0% { transform: translate(89.5px,193.702618px); } 20% { transform: translate(127.171131px,155.73472px); } 100% { transform: translate(89.5px,193.499632px); } }
+@keyframes a0_o { 0% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes a1_t { 0% { transform: translate(181.5px,86px); } 5.3475% { transform: translate(214.5px,53px); } 24.0641% { transform: translate(181.5px,86px); } 29.4117% { transform: translate(214.5px,53px); } 42.7807% { transform: translate(181.5px,86px); } 48.1283% { transform: translate(214.5px,53px); } 67.9144% { transform: translate(181.5px,86px); } 73.262% { transform: translate(214.5px,53px); } 94.6524% { transform: translate(181.5px,86px); } 100% { transform: translate(214.5px,53px); } }
+@keyframes a1_o { 0% { opacity: 0; } 0.5348% { opacity: 1; } 4.8128% { opacity: 1; } 5.3476% { opacity: 0; } 24.0642% { opacity: 0; } 24.5989% { opacity: 1; } 28.877% { opacity: 1; } 29.4118% { opacity: 0; } 42.7807% { opacity: 0; } 43.3155% { opacity: 1; } 47.5936% { opacity: 1; } 48.1283% { opacity: 0; } 67.9144% { opacity: 0; } 68.4492% { opacity: 1; } 72.7273% { opacity: 1; } 73.262% { opacity: 0; } 94.6524% { opacity: 0; } 95.1872% { opacity: 1; } 99.4652% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes a2_t { 0% { transform: translate(158.390775px,28.914px); } 100% { transform: translate(158.390775px,84px); } }
+@keyframes a3_t { 0% { transform: translate(248.441496px,127.796997px); } 13.4615% { transform: translate(199.999989px,127.797px); } 15.3846% { transform: translate(200px,127.796997px); } 28.8461% { transform: translate(247.179688px,127.797px); } 71.1538% { transform: translate(248.441px,127.797px); } 84.6153% { transform: translate(200px,127.797px); } 86.5384% { transform: translate(200px,127.797px); } 100% { transform: translate(247.18px,127.797px); } }
+@keyframes a3_o { 0% { opacity: 1; } 2.6316% { opacity: 0; } 76.3158% { opacity: 0; } 78.9474% { opacity: 1; } 97.3684% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes a4_t { 0% { transform: translate(121.093768px,122.06252px); } 5.3475% { transform: translate(82.828568px,84.000003px); } 24.0641% { transform: translate(121.093768px,122.1485px); } 29.4117% { transform: translate(82.828568px,84px); } 42.7807% { transform: translate(121.093768px,122.148503px); } 48.1283% { transform: translate(82.828568px,83.79732px); } 67.9144% { transform: translate(121.093768px,122.148503px); } 73.262% { transform: translate(82.828568px,84.000003px); } 94.6524% { transform: translate(121.093768px,122.06252px); } 100% { transform: translate(82.828568px,84.000003px); } }
+@keyframes a4_o { 0% { opacity: 0; } 0.5348% { opacity: 1; } 4.8128% { opacity: 1; } 5.3476% { opacity: 0; } 24.0642% { opacity: 0; } 24.5989% { opacity: 1; } 28.877% { opacity: 1; } 29.4118% { opacity: 0; } 42.7807% { opacity: 0; } 43.3155% { opacity: 1; } 47.5936% { opacity: 1; } 48.1283% { opacity: 0; } 67.9144% { opacity: 0; } 68.4492% { opacity: 1; } 72.7273% { opacity: 1; } 73.262% { opacity: 0; } 94.6524% { opacity: 0; } 95.1872% { opacity: 1; } 99.4652% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes a5_t { 0% { transform: translate(92.390775px,34.0625px); } 50% { transform: translate(122.5px,34.0625px); } 100% { transform: translate(92.390775px,34.0625px); } }
+@keyframes a5_o { 0% { opacity: 0; } 10% { opacity: 1; } 90% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes a6_t { 0% { transform: translate(50px,53.5625px) scale(1,1); } 50% { transform: translate(50px,53.5625px) scale(1.05,1.05); } 100% { transform: translate(50px,53.5625px) scale(1,1); } }
+@keyframes a7_t { 0% { transform: translate(123.007918px,233.660539px); } 100% { transform: translate(98.04917px,208.702628px); } }
+@keyframes a7_o { 0% { opacity: 0; } 10% { opacity: 1; } 90% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes a8_t { 0% { transform: translate(187.45083px,173.802246px); } 5.3475% { transform: translate(187.45083px,231.349246px); } 24.0641% { transform: translate(187.45083px,173.801926px); } 29.4117% { transform: translate(187.45083px,231.349555px); } 42.7807% { transform: translate(187.45083px,173.802246px); } 48.1283% { transform: translate(187.45083px,231.349246px); } 67.9144% { transform: translate(187.45083px,173.802246px); } 73.262% { transform: translate(187.45083px,231.349246px); } 94.6524% { transform: translate(187.45083px,173.802246px); } 100% { transform: translate(187.45083px,231.349246px); } }
+@keyframes a8_o { 0% { opacity: 0; } 0.5348% { opacity: 1; } 4.8128% { opacity: 1; } 5.3476% { opacity: 0; } 24.0642% { opacity: 0; } 24.5989% { opacity: 1; } 28.877% { opacity: 1; } 29.4118% { opacity: 0; } 42.7807% { opacity: 0; } 43.3155% { opacity: 1; } 47.5936% { opacity: 1; } 48.1283% { opacity: 0; } 67.9144% { opacity: 0; } 68.4492% { opacity: 1; } 72.7273% { opacity: 1; } 73.262% { opacity: 0; } 94.6524% { opacity: 0; } 95.1872% { opacity: 1; } 99.4652% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes a9_t { 0% { transform: translate(165px,134px) scale(1,1); } 0.5586% { transform: translate(165px,134px) scale(1.05,1.05); } 1.1173% { transform: translate(165px,134px) scale(1,1); } 25.1396% { transform: translate(165px,134px) scale(1,1); } 25.6983% { transform: translate(165px,134px) scale(1.05,1.05); } 26.2569% { transform: translate(165px,134px) scale(1,1); } 44.6927% { transform: translate(165px,134px) scale(1,1); } 45.2513% { transform: translate(165px,134px) scale(1.05,1.05); } 45.81% { transform: translate(165px,134px) scale(1,1); } 70.9497% { transform: translate(165px,134px) scale(1,1); } 71.5083% { transform: translate(165px,134px) scale(1.05,1.05); } 72.067% { transform: translate(165px,134px) scale(1,1); } 98.8826% { transform: translate(165px,134px) scale(1,1); } 99.4413% { transform: translate(165px,134px) scale(1.05,1.05); } 100% { transform: translate(165px,134px) scale(1,1); } }
+@keyframes a10_t { 0% { transform: translate(265px,50px) scale(1,1); } 2.5641% { transform: translate(265px,50px) scale(1.05,1.05); } 5.1282% { transform: translate(265px,50px) scale(1,1); } 94.8717% { transform: translate(265px,50px) scale(1,1); } 97.4358% { transform: translate(265px,50px) scale(1.05,1.05); } 100% { transform: translate(265px,50px) scale(1,1); } }
+@keyframes a11_t { 0% { transform: translate(154.5px,265.483024px) scale(1,1); } 50% { transform: translate(154.5px,265.483024px) scale(1.05,1.05); } 100% { transform: translate(154.5px,265.483024px) scale(1,1); } }
+@keyframes a12_o { 0% { opacity: 0; } 10% { opacity: 1; } 90% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes a13_t { 0% { transform: translate(265px,95.5px) rotate(90deg); } 16.129% { transform: translate(265px,129.945496px) rotate(90deg); } 40.3225% { transform: translate(265px,95.500003px) rotate(90deg); } 59.6774% { transform: translate(265px,95.5px) rotate(90deg); } 75.8064% { transform: translate(265px,129.945px) rotate(90deg); } 100% { transform: translate(265px,95.5px) rotate(90deg); } }
+@keyframes a13_o { 0% { opacity: 0; } 1.5873% { opacity: 1; } 14.2857% { opacity: 1; } 15.873% { opacity: 0; } 39.6825% { opacity: 0; } 41.2698% { opacity: 1; } 58.7302% { opacity: 0; } 60.3175% { opacity: 1; } 73.0159% { opacity: 1; } 74.6032% { opacity: 0; } 98.4127% { opacity: 0; } 100% { opacity: 1; } }
+@keyframes a14_o { 0% { opacity: 0; } 5.1724% { opacity: 1; } 98.2759% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes a15_o { 0% { opacity: 0; } 8.1081% { opacity: 1; } 97.2973% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes a16_o { 0% { opacity: 0; } 7.8947% { opacity: 1; } 97.3684% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes a17_o { 0% { opacity: 1; } 1.4706% { opacity: 0; } 97.7941% { opacity: 0; } 100% { opacity: 1; } }
+    </style>
     <g transform="translate(165.59,165.742) translate(-158.59,-157.742)">
         <g transform="translate(152.167,203.776) rotate(135) translate(-41.75,-41.1485)">
             <path d="M-9,-9L-42,-42" stroke="#000000" fill="none" stroke-linecap="square" transform="translate(-9,42) rotate(90)"/>
             <path d="M0,0L0,35.297L-49.5,35.297" stroke="#000000" fill="none" stroke-linecap="square" transform="translate(83.5,47)"/>
         </g>
-        <g id="_a0" opacity="1" transform="translate(97,201.203) translate(-7.5,-7.5)">
+        <g opacity="1" transform="translate(97,201.203) translate(-7.5,-7.5)" style="animation: a0_t 7.5s linear 16.2s both, a0_o 0.1s linear 17.7s both;">
             <ellipse rx="7.5" ry="7.5" fill="#b037f2" stroke="none" transform="translate(7.5,7.5)"/>
             <ellipse rx="5" ry="5" fill="#fcbe0a" stroke="none" transform="translate(7.5,7.5)"/>
             <ellipse rx="2.5" ry="2.5" fill="#25abff" stroke="none" transform="translate(7.5,7.5)"/>
         </g>
         <path d="M-9,-9L-42,-42" stroke="#000000" fill="none" stroke-linecap="square" transform="translate(172.5,95) rotate(90)"/>
-        <ellipse id="_a1" rx="4.5" ry="4.5" stroke="none" fill="#b037f2" opacity="0" transform="translate(181.5,86)"/>
+        <ellipse rx="4.5" ry="4.5" stroke="none" fill="#b037f2" opacity="0" transform="translate(181.5,86)" style="animation: a1_t 18.7s linear 0.5s both, a1_o 18.7s linear 0.5s both;"/>
         <g transform="translate(124.742,75.8125) rotate(270) translate(-41.75,-41.1485)">
             <path d="M-12.7348,-12.7348L-42,-42" stroke="#000000" fill="none" stroke-linecap="square" transform="translate(-9,42) rotate(90) translate(3.73482,3.73482)"/>
             <path d="M0,0L0,69L-49.5,69" stroke="#000000" fill="none" stroke-linecap="square" transform="translate(83.5,47) translate(0,-33.703)"/>
         </g>
-        <g id="_a2" transform="translate(165.891,36.414) translate(-7.5,-7.5)">
+        <g transform="translate(165.891,36.414) translate(-7.5,-7.5)" style="animation: a2_t 1.5s linear 3s both;">
             <ellipse rx="7.5" ry="7.5" fill="#b037f2" stroke="none" transform="translate(7.5,7.5)"/>
             <ellipse rx="5" ry="5" fill="#fcbe0a" stroke="none" transform="translate(7.5,7.5)"/>
             <ellipse rx="2.5" ry="2.5" fill="#25abff" stroke="none" transform="translate(7.5,7.5)"/>
         </g>
         <path d="M0,0L0,35.297L-49.5,35.297" stroke="#000000" fill="none" stroke-linecap="square" transform="translate(265,100)"/>
-        <g id="_a3" opacity="1" transform="translate(255.941,135.297) translate(-7.5,-7.5)">
+        <g opacity="1" transform="translate(255.941,135.297) translate(-7.5,-7.5)" style="animation: a3_t 5.2s linear 7.5s both, a3_o 3.8s linear 8.2s both;">
             <ellipse rx="7.5" ry="7.5" fill="#b037f2" stroke="none" transform="translate(7.5,7.5)"/>
             <ellipse rx="5" ry="5" fill="#fcbe0a" stroke="none" transform="translate(7.5,7.5)"/>
             <ellipse rx="2.5" ry="2.5" fill="#25abff" stroke="none" transform="translate(7.5,7.5)"/>
         </g>
-        <ellipse id="_a4" rx="4.5" ry="4.5" stroke="none" fill="#25abff" opacity="0" transform="translate(121.094,122.063)"/>
-        <ellipse id="_a5" rx="4.5" ry="4.5" stroke="none" fill="#2abaff" opacity="0" fill-opacity="1" transform="translate(92.3908,34.0625)"/>
-        <ellipse id="_a6" rx="50" ry="50" fill="#2abaff" stroke="#32bffe" stroke-width="3" transform="translate(50,53.5625)"/>
-        <ellipse id="_a7" rx="4.5" ry="4.5" stroke="none" fill="#fcbe0a" opacity="0" transform="translate(123.008,233.661)"/>
-        <ellipse id="_a8" rx="4.5" ry="4.5" stroke="none" fill="#fcbe0a" opacity="0" transform="translate(187.451,173.802)"/>
-        <ellipse id="_a9" rx="50" ry="50" fill="#000000" stroke="#000000" transform="translate(165,134)"/>
-        <ellipse id="_a10" rx="50" ry="50" fill="#b037f2" stroke="#b64af3" stroke-width="3" transform="translate(265,50)"/>
-        <ellipse id="_a11" rx="50" ry="50" fill="#fcbe0a" stroke="#facc5e" stroke-width="3" transform="translate(154.5,265.483)"/>
+        <ellipse rx="4.5" ry="4.5" stroke="none" fill="#25abff" opacity="0" transform="translate(121.094,122.063)" style="animation: a4_t 18.7s linear 0.5s both, a4_o 18.7s linear 0.5s both;"/>
+        <ellipse rx="4.5" ry="4.5" stroke="none" fill="#2abaff" opacity="0" fill-opacity="1" transform="translate(92.3908,34.0625)" style="animation: a5_t 2s linear 2s both, a5_o 1s linear 2s both;"/>
+        <ellipse rx="50" ry="50" fill="#2abaff" stroke="#32bffe" stroke-width="3" transform="translate(50,53.5625)" style="animation: a6_t 0.2s linear 1.9s both;"/>
+        <ellipse rx="4.5" ry="4.5" stroke="none" fill="#fcbe0a" opacity="0" transform="translate(123.008,233.661)" style="animation: a7_t 1s linear 15.2s both, a7_o 1s linear 15.2s both;"/>
+        <ellipse rx="4.5" ry="4.5" stroke="none" fill="#fcbe0a" opacity="0" transform="translate(187.451,173.802)" style="animation: a8_t 18.7s linear 0.5s both, a8_o 18.7s linear 0.5s both;"/>
+        <ellipse rx="50" ry="50" fill="#000000" stroke="#000000" transform="translate(165,134)" style="animation: a9_t 17.9s linear 0.3s both;"/>
+        <ellipse rx="50" ry="50" fill="#b037f2" stroke="#b64af3" stroke-width="3" transform="translate(265,50)" style="animation: a10_t 3.9s linear 6.3s both;"/>
+        <ellipse rx="50" ry="50" fill="#fcbe0a" stroke="#facc5e" stroke-width="3" transform="translate(154.5,265.483)" style="animation: a11_t 0.2s linear 15s both;"/>
         <text fill="#ffffff" font-size="16" font-family="Arial" font-weight="400" stroke="none" text-anchor="middle" transform="translate(50,66.1094)" style="line-height: 14px;">DRIVER</text>
         <text fill="#ffffff" font-size="16" font-family="Arial" font-weight="400" stroke="none" text-anchor="middle" transform="translate(50,52.1094)" style="line-height: 14px;">BUTTON</text>
         <text fill="#ffffff" font-size="16" font-family="Arial" font-weight="400" stroke="none" text-anchor="middle" transform="translate(265,62.5469)" style="line-height: 14px;">DRIVER</text>
         <text fill="#ffffff" font-size="16" font-family="Arial" font-weight="400" stroke="none" text-anchor="middle" transform="translate(265,48.5469)" style="line-height: 14px;">NETWORK</text>
         <text fill="#000000" font-size="16" font-family="Arial" font-weight="400" stroke="none" text-anchor="middle" transform="translate(154.5,278.03)" style="line-height: 14px;">DRIVER</text>
         <text fill="#000000" font-size="16" font-family="Arial" font-weight="400" stroke="none" text-anchor="middle" transform="translate(154.5,264.03)" style="line-height: 14px;">DISK</text>
-        <text id="_a12" fill="#000000" font-size="16" font-family="Arial" font-weight="400" stroke="none" opacity="0" display="none" transform="translate(125.422,139.547)" style="line-height: 16px;">REDUCED</text>
-        <ellipse id="_a13" rx="4.5" ry="4.5" stroke="none" fill="#b037f2" opacity="0" fill-opacity="1" transform="translate(265,95.5) rotate(90)"/>
+        <text fill="#000000" font-size="16" font-family="Arial" font-weight="400" stroke="none" opacity="0" display="none" transform="translate(125.422,139.547)" style="line-height: 16px; animation: a12_o 1s linear 3s both;">REDUCED</text>
+        <ellipse rx="4.5" ry="4.5" stroke="none" fill="#b037f2" opacity="0" fill-opacity="1" transform="translate(265,95.5) rotate(90)" style="animation: a13_t 6.2s linear 6.5s both, a13_o 6.3s linear 6.5s both;"/>
         <rect width="70" height="19.703" fill="#000000" stroke="none" transform="translate(282.18,135.297) translate(-35,-9.8515)"/>
         <text fill="#ffffff" font-size="12" font-family="Arial" font-weight="400" stroke="none" transform="translate(252.5,139.457)" style="line-height: 16px;">REDUCER</text>
         <g transform="translate(153,34.0625) translate(-35,-9.8515)">
@@ -52,22 +80,22 @@
         </g>
         <rect width="70" height="19.703" fill="#000000" stroke="none" transform="translate(75,203.351) translate(-35,-9.8515)"/>
         <text fill="#ffffff" font-size="12" font-family="Arial" font-weight="400" stroke="none" transform="translate(45.32,207.511)" style="line-height: 16px;">REDUCER</text>
-        <g id="_a14" opacity="0" transform="translate(165,134) translate(-32.9532,-24.9376)">
+        <g opacity="0" transform="translate(165,134) translate(-32.9532,-24.9376)" style="animation: a14_o 5.8s linear 11.8s both;">
             <text fill="#fcbe0a" font-size="16" font-family="Arial" font-weight="400" stroke="none" opacity="1" transform="translate(0,46.4844)" style="line-height: 16px;">.adding(x)</text>
             <text fill="#25abff" font-size="16" font-family="Arial" font-weight="400" stroke="none" opacity="1" transform="translate(0.000125,30.4845)" style="line-height: 16px;">.disabled,</text>
             <text fill="#b037f2" font-size="16" font-family="Arial" font-weight="400" stroke="none" opacity="1" transform="translate(0.000125,14.4845)" style="line-height: 16px;">.idle,</text>
         </g>
-        <g id="_a15" opacity="0" transform="translate(165,134) translate(-32.9532,-24.9376)">
+        <g opacity="0" transform="translate(165,134) translate(-32.9532,-24.9376)" style="animation: a15_o 3.7s linear 8.2s both;">
             <text fill="#fcbe0a" font-size="16" font-family="Arial" font-weight="400" stroke="none" opacity="1" transform="translate(0,46.4844)" style="line-height: 16px;">.idle</text>
             <text fill="#25abff" font-size="16" font-family="Arial" font-weight="400" stroke="none" opacity="1" transform="translate(0.000125,30.4845)" style="line-height: 16px;">.disabled,</text>
             <text fill="#b037f2" font-size="16" font-family="Arial" font-weight="400" stroke="none" opacity="1" transform="translate(0.000125,14.4845)" style="line-height: 16px;">.running,</text>
         </g>
-        <g id="_a16" opacity="0" transform="translate(165,134) translate(-32.9532,-24.9376)">
+        <g opacity="0" transform="translate(165,134) translate(-32.9532,-24.9376)" style="animation: a16_o 3.8s linear 4.4s both;">
             <text fill="#fcbe0a" font-size="16" font-family="Arial" font-weight="400" stroke="none" opacity="1" transform="translate(0,46.4844)" style="line-height: 16px;">.idle</text>
             <text fill="#25abff" font-size="16" font-family="Arial" font-weight="400" stroke="none" opacity="1" transform="translate(0.000125,30.4845)" style="line-height: 16px;">.disabled,</text>
             <text fill="#b037f2" font-size="16" font-family="Arial" font-weight="400" stroke="none" opacity="1" transform="translate(0.000125,14.4845)" style="line-height: 16px;">.queued,</text>
         </g>
-        <g id="_a17" opacity="1" transform="translate(165,134) translate(-32.9532,-24.9376)">
+        <g opacity="1" transform="translate(165,134) translate(-32.9532,-24.9376)" style="animation: a17_o 13.6s linear 4.3s both;">
             <text fill="#fcbe0a" font-size="16" font-family="Arial" font-weight="400" stroke="none" opacity="1" transform="translate(0,46.4844)" style="line-height: 16px;">.idle</text>
             <text fill="#25abff" font-size="16" font-family="Arial" font-weight="400" stroke="none" opacity="1" transform="translate(0.000125,30.4845)" style="line-height: 16px;">.enabled,</text>
             <text fill="#b037f2" font-size="16" font-family="Arial" font-weight="400" stroke="none" opacity="1" transform="translate(0.000125,14.4845)" style="line-height: 16px;">.idle,</text>
